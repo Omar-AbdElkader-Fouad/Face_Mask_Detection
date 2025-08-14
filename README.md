@@ -1,10 +1,16 @@
 # Face Mask Detection
 
-## Description
-This project implements a deep learning-based system to detect whether people are wearing face masks. The model classifies faces in images into two categories: **with mask** or **without mask**.  
+This project is a deep learning model based on **Convolutional Neural Networks (CNNs)** designed to detect whether a person is wearing a face mask or not using images.  
+It was developed as part of a machine learning training program at the National Telecommunication Institute (NTI).  
+The goal is to automate face mask detection to support public health and safety efforts.
 
-The goal of this project is to provide a practical tool for monitoring mask usage, which can be useful in public places, workplaces, or educational environments. It demonstrates the use of computer vision techniques for real-time object detection and classification.
+## Model
+The model uses a CNN architecture to extract features from images and classify them into two categories:  
+- With Mask  
+- Without Mask  
 
-## Try the Live App
-You can test the system interactively using the live Hugging Face app:  
-[Face Mask Detection App](https://huggingface.co/spaces/omar113/Face_Mask_Detection)
+## Live Demo
+You can try the app online here: (https://huggingface.co/spaces/omar113/Face_Mask_Detection)
+
+## Presentation
+The project presentation(https://docs.google.com/presentation/d/1YVxzeCErbzCl0wB481eRD2oa7-Ja3xXh/edit?usp=sharing&ouid=115365572239764936265&rtpof=true&sd=true).
